@@ -1,4 +1,4 @@
 # PoseEstimationProject
-Learning pose estimation
+Learning pose estimation.
 
-using the video of cxk (no offence)
+Using the video of cxk (no offence)
